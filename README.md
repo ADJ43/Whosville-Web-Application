@@ -46,6 +46,11 @@ governments currently face.<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="70" height="70"/>&nbsp;
+# Frameworks
+![image](https://user-images.githubusercontent.com/92131037/179421449-ba6aebd0-924a-4691-b464-454cd2e52def.png) ![image](https://user-images.githubusercontent.com/92131037/179421493-fb020f37-d7f6-4c9f-b11e-23341f561e3a.png) ![image](https://user-images.githubusercontent.com/92131037/179421586-bf62746c-3f81-42f5-a614-7f85183b6373.png) 
+ ![image](https://user-images.githubusercontent.com/92131037/179421531-66698b39-191e-424a-8561-a9cd2b188496.png)
+
+
 
 ![Untitled (1065 × 300 px) (2)](https://user-images.githubusercontent.com/92131037/179386124-3cb1bf2a-e11b-4ad6-959c-c3f8b3b2f8ee.png)
 ![Blue Business Circle Category Diagram](https://user-images.githubusercontent.com/92131037/179386776-f9733f8a-d9d5-44f4-8864-e74d58740bdc.png)
@@ -76,4 +81,8 @@ governments currently face.<br>
 
 > - You will need a Discord account to use the bot.
 
+# Future Roadmap
+> You will also want to develop a plan for how you would scale this solution in the future.
 
+![image](https://user-images.githubusercontent.com/92131037/179416835-85ad3840-9125-4f57-acf7-16f2a75ca468.png)
+![image](https://user-images.githubusercontent.com/92131037/179416845-78034ef7-87fd-4996-9d1a-b48e95c929ef.png)
