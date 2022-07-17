@@ -36,7 +36,8 @@ governments currently face.<br>
 ![Untitled (1065 × 300 px) (1065 × 200 px)](https://user-images.githubusercontent.com/92131037/179385339-7344db26-45cf-4725-bfd6-850a0119a7ab.png)
 
 
-![Developer (2)](https://user-images.githubusercontent.com/92131037/179384885-e3f366c6-78d2-480f-8343-25850265a653.png)
+![Developer (3)](https://user-images.githubusercontent.com/92131037/179421773-1b3521d5-6340-448c-9075-1c8c792e82e3.png)
+
 
 ![Untitled (1065 × 300 px) (1065 × 200 px) (2)](https://user-images.githubusercontent.com/92131037/179385511-74bfc8fd-b7a3-4d39-939f-8da17a4630a2.png)
 
@@ -86,3 +87,13 @@ governments currently face.<br>
 
 ![image](https://user-images.githubusercontent.com/92131037/179416835-85ad3840-9125-4f57-acf7-16f2a75ca468.png)
 ![image](https://user-images.githubusercontent.com/92131037/179416845-78034ef7-87fd-4996-9d1a-b48e95c929ef.png)
+
+![Untitled (1065 × 300 px) (1065 × 200 px) (4)](https://user-images.githubusercontent.com/92131037/179421894-e8c23f9e-c48e-4c0e-ae15-36b8453d3bf5.png)
+
+
+![image](https://user-images.githubusercontent.com/92131037/179422070-98738a06-4be1-4327-a253-c0f73bcfec95.png)
+![image](https://user-images.githubusercontent.com/92131037/179421997-cde7a0e3-8848-4b32-82ba-ea0183c9935e.png) ![image](https://user-images.githubusercontent.com/92131037/179422026-680205c2-d5d8-4109-a04f-6208d479df9a.png)
+
+
+
+
